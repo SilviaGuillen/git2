@@ -11,6 +11,13 @@ public class Main {
 
             System.out.println("i = " + i);
             System.out.println("Hola" + i);
+
+            String[] name = new String[] {"Anna", "Bertha", "Carla", "Dana"};
+
+
+
+                    System.out.println("Person with name " + name );
+                }
+                }
+
         }
-    }
-}
